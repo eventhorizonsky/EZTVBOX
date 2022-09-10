@@ -1,7 +1,7 @@
 {
 "wallpaper":"http://imageproxy.chaoxing.com/0x0jpeg,sXzhrOazNY2-PYfXa3wU39pBOOPFduX_L6GJApXq_yRk/http://p.ananas.chaoxing.com/star3/origin/ef41c5f42827d4b578cb5ec55d29c6d6.png",
-"sites": [{"key":"csp_biubiu_OmoFun动111漫","name":"OmoFun动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/eventhorizonsky/EZTVBOX/omofun.json"}
-,{"key":"csp_biubiu_蓝莓影视","name":"蓝莓影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/Dong-learn9/TVBox-zyjk/main/XB/lanmeiyingyuan.json"},
+"sites": [{"key":"csp_biubiu_OmoFun动漫","name":"OmoFun动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/eventhorizonsky/EZTVBOX/omofun.json"}
+,{"key":"csp_biubiu_555电影","name":"5️555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/Dong-learn9/TVBox-zyjk/XB/555.json"},
 {"key":"csp_xbb_哔嘀影视","name":"🍀Bidi影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/哔嘀影视.json"},
 {"key":"csp_xbb_影视工厂","name":"🍀影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/影视工厂.json"}],
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9Eb25nLWxlYXJuOS9UVkJveC16eWprL21haW4vbGl2ZS50eHQ="]}]}],
